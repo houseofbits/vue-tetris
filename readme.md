@@ -15,4 +15,4 @@ npm run serve
 - Arrow Right - Move piece to the right
 - Arrow Down - Drop piece
 - X - Rotate left
-- z - Rotate righ
+- Z - Rotate righ
