@@ -2,7 +2,7 @@
 
 Following game rules from [SRS](https://tetris.fandom.com/wiki/SRS)
 
-![Preview gif](https://github.com/houseofbits/web-toolchain-examples/blob/master/vue-tetris/preview.gif)
+![Preview gif](https://raw.githubusercontent.com/houseofbits/vue-tetris/master/preview.gif)
 
 **Build & Run**
 ```
